@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    margin-left: 250px;
+    justify-content: space-around;
+    text-align: center;
+    margin-right: 250px;
+}
+
+.aa{
+    background-color: beige;
+    padding: 22px;
+}
+.mam{
+    color: red;
+}
+
+.bb{
+  
+    padding: 38px;
+    background-color: beige;
+
+    }
+.cc{
+    
+     padding: 22px;
+     background-color: beige;
+}
+body{
+    background-color: rgb(158, 152, 152);
+    text-align: center;
+  
+}
+.vv{
+    
+
+    width: 220px;
+    height: 221px;
+    margin-top: -10px;
+}
+.dd{
+    font-size: 35px;
+}
